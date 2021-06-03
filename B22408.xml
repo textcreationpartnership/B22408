@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several debates of the House of Commons in the reign of the late King James II pro &amp; contra, relating to the establishment of the militia, disbanding the new raised forces, and raising a present supply for His Majesty, beginning the ninth of November, 1685, and ending the twentieth day of the same month, being the day of the prorogation of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22408</idno><idno type="EEBO-CITATION">10285394</idno>
+  <idno type="VID">204654</idno>
+  <idno type="EEBO-PROQUEST">2240952417</idno>
+  
+            <idno type="STC">Wing E2725</idno>
+            <idno type="OCLC">10285394</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several debates of the House of Commons in the reign of the late King James II pro &amp; contra, relating to the establishment of the militia, disbanding the new raised forces, and raising a present supply for His Majesty, beginning the ninth of November, 1685, and ending the twentieth day of the same month, being the day of the prorogation of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204654:1"/>
+            <pb facs="tcp:204654:1"/>
+            <p> The SEVERAL DEBATES OF THE House of Commons, In the Reign of the <hi>Late King Iames</hi> II.</p>
+            <p>
+               <hi>Pro &amp; Contra;</hi> Relating to the Establishment of the Militia, Disbanding the New Raised Forces, and Raising a present Supply for <hi>His Majesty.</hi>
+            </p>
+            <p>BEGINNING The Ninth of <hi>November,</hi> 1685; and Ending the Twentieth Day of the same Month; being the Day of the Prorogation of the Parliament.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1697.</p>
+            <pb facs="tcp:204654:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:204654:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THE Arguments that have of late been so rife, for, and against a Standing-Army, giving me Occasion, to enquire a little into the Proceed<g ref="char:EOLhyphen"/>ings of former Times, in relation to so weighty an Affair; I have thought it would not have been unac<g ref="char:EOLhyphen"/>ceptable to the World, to give the Sence of a Parlia<g ref="char:EOLhyphen"/>ment in that Case: For if there has been so much Defe<g ref="char:EOLhyphen"/>rence had to the Opinion of particular Persons, upon such an Occasion, how much more should we have to that of <hi>the Great Council of the Nation,</hi> which we now pre<g ref="char:EOLhyphen"/>sent you with; and which, tho' it was always thought, to have been one not over legally constituted; the then King <hi>James</hi> the Second, having the Charters of most of
+<pb facs="tcp:204654:3"/> the Corporations of <hi>England</hi> at his Devotion; yet you may hereby observe, that notwithstanding all the Me<g ref="char:EOLhyphen"/>thods that had been used, to debauch Mens Principles, as well as their Manners, in the preceding Reign; yet there was a great deal of the <hi>free English Spirit</hi> still remaining, which would be neither pam'd with delusive Promises, nor frighten'd with big Words, out of the Li<g ref="char:EOLhyphen"/>berty transmitted to them, with so much Expence of Blood and Treasure, by their glorious Ancestors, and which they were resolv'd to leave entire to succeeding Ge<g ref="char:EOLhyphen"/>nerations.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204654:3"/>
+            <head>The SEVERAL DEBATES OF THE House of Commons, <hi>Pro &amp; Contra.</hi>
+            </head>
+            <div type="day">
+               <head>
+                  <hi>Lunae</hi> 9. <hi>die Novembris.</hi>
+               </head>
+               <p>BOTH Houses of Parliament, pursuant to the last Adjournment, His Majesty being seated in his Royal Throne, in the House of Peers, commanded the Gentleman Usher of the Black Rod, to give Notice to the House of Com<g ref="char:EOLhyphen"/>mons, that they immediately attend His Majesty in the House of Peers Where being come, His Majesty was pleased to make a most Gracious Speech to both Houses of Parliament.</p>
+               <p>After which, the House of Commons returned to their own House, and Mr. Speaker reported His Majesty's Speech to the House, which being read at the Clerk's Table, is as followeth.</p>
+               <q>
+                  <pb n="2" facs="tcp:204654:4"/>
+                  <p>
+                     <hi>My Lords and Gentlemen,</hi>
+                  </p>
+                  <p>AFter the Storm that seemed to be coming up<g ref="char:EOLhyphen"/>on Us, when we parted last, I am glad to meet you all again in so great Peace and Quiet<g ref="char:EOLhyphen"/>ness; God Almighty be praised, by whose Bles<g ref="char:EOLhyphen"/>sing that Rebellion was suppressed: But when I reflect what an inconsiderable number of Men be<g ref="char:EOLhyphen"/>gun it, and how long they carried it on without any opposition, I hope every body will be con<g ref="char:EOLhyphen"/>vinced, that the Militia, which have hitherto been so much depended on, is not sufficient for such Occasions, and that there is nothing but a good Force of well disciplined Troops in constant Pay that can defend us, from such as either at Home or Abroad, are disposed to disturb us; and in truth, my concern for the Peace and Quiet of my Subjects, as well as for the Safety of the Govern<g ref="char:EOLhyphen"/>ment, made me think it necessary, to increase the num<g ref="char:EOLhyphen"/>ber to the proportion I have done, that I owed as well to the Honour, as the Security of the Nati<g ref="char:EOLhyphen"/>on, whose Reputation was so infinitely exposed to all our Neighbours, by having lain open to this late wretched Attempt, that it is not to be repair<g ref="char:EOLhyphen"/>ed without keeping such a body of Men on foot, that none may ever have a thought of finding us again, so miserably unprovided: It is for the sup<g ref="char:EOLhyphen"/>port of this great Charge, which is now more than double to what it was; that I ask your assistance in giving me a Supply answerable to the Expences it brings along with it; and I cannot doubt, but what I have begun so much to the Honour and Defence of the Government,
+<pb n="3" facs="tcp:204654:4"/> will be continued by you with all the chearfulness and readiness that is requisite for a Work of so great Importance. Let no Man take Exception, that there are some Officers in the Army not qua<g ref="char:EOLhyphen"/>lified according to the late Tests, for their Im<g ref="char:EOLhyphen"/>ployment: The Gentlemen, I must tell you, are are most of them well known to me, and having formerly served me on several Occasions, and al<g ref="char:EOLhyphen"/>ways approved the Loyalty of their Principles by their Practices; I think them now fit to be employed under me, and will deal plainly with you, that after having had the benefit of their Services in such a time of Need and Danger, I will neither expose them to Disgrace, nor my Self to the want of them, if there should be another Re<g ref="char:EOLhyphen"/>bellion to make them necessary to Me.</p>
+                  <p>I am afraid, some Men may be so Wicked, to hope, and expect, that a Difference may happen between You and Me, upon this Occasion; but when you consider what Advantages have risen to us in a few Months, by the good understanding, we have hitherto had, what wonderful Effects it hath already produced in the change of the whole Scene of Affairs abroad, so much more to the Honour of the Nation, and the Figure it ought to make in the World, and that nothing can hin<g ref="char:EOLhyphen"/>der a further Progress in this way to all our satis<g ref="char:EOLhyphen"/>factions, but Fears and Jealousies amongst our selves. I will not apprehend, that such a misfor<g ref="char:EOLhyphen"/>tune can befall us as a Division, or but a Coldness between You and Us; nor that any thing can shake you, in your Steadiness and Loyalty to Me, who by God's Blessing, will ever make you re<g ref="char:EOLhyphen"/>turns
+<pb n="4" facs="tcp:204654:5"/> of Kindness and Protection, with a Resolu<g ref="char:EOLhyphen"/>tion to venture, even my own Life, in the De<g ref="char:EOLhyphen"/>fence of the true Interest of this Kingdom.</p>
+               </q>
+               <p>The Earl of <hi>Middleton,</hi> a Member of the House of Commons, and one of His Majesty's Principal Secretaries of State, moved, That the House would immediately return their Thanks to his Majesty, for his most Gracious Speech, and also proceed to the Consideration of answering the ends therein menti<g ref="char:EOLhyphen"/>oned.</p>
+               <p>After some Debate, it was resolved, That the House resolve it self into a Committee of the whole House, on <hi>Thursday</hi> Morning next at Ten of the Clock, to take into Consideration, His Majesty's Speech: And the House Adjourned till <hi>Thursday</hi> the <hi>12th.</hi> Instant, Ten a Clock in the Morning.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Jovis</hi> 12. <hi>die Novembis.</hi> 1685.</head>
+               <p>The House resolved it self into a Committee of the whole House, to take into Consideration His Majesty's Speech.</p>
+               <p>
+                  <hi>Mr. Sollicitor in the Chair.</hi>
+               </p>
+               <p>The King's Speech was Read.</p>
+               <p>The Lord <hi>Middleton</hi> moved to have it Considered by Paragraphs.</p>
+               <sp>
+                  <speaker>Sir W. C.</speaker>
+                  <p>Some other than the Militia is neces<g ref="char:EOLhyphen"/>sary to be found, and moved a Supply for the Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. P.</speaker>
+                  <p>We have lately had an unfortunate Proof, how little we are to depend upon the Militia, and therefore fure we must all approve of His Majesty's
+<pb n="5" facs="tcp:204654:5"/> increasing the Forces to what they are. <hi>France</hi> is formidable, now <hi>Holland</hi>'s Forces are greatly increa<g ref="char:EOLhyphen"/>sed, and we must be strong in proportion, for pre<g ref="char:EOLhyphen"/>servation of our selves and <hi>Flanders,</hi> and toward that, the good Harmony 'twixt the King and this House hath greatly contributed. It has had two o<g ref="char:EOLhyphen"/>ther great Effects abroad.</p>
+                  <p n="1">1. The <hi>French</hi> King's Army last Spring was march<g ref="char:EOLhyphen"/>ing towards <hi>Germany; Crequey</hi> was far advanced, but when the King of <hi>France</hi> heard the kindness of this House to the King, and the Defeat of <hi>Monmouth,</hi> he recalled them.</p>
+                  <p n="2">2. The <hi>French</hi> and <hi>Spaniard</hi> had also a difference about <hi>Hay</hi> and <hi>Fonttereabeau:</hi> The <hi>French</hi> advanced their Troops, and recalled them on this News.</p>
+                  <p>This is the noble Effect of the Harmony between the King and this House, who have (I hope) brought the same Heart and Loyalty, they had the last time here.</p>
+                  <p>Hence we may conclude, these Levies made by the King are Just, Reasonable, and Necessary. And so let us Vote a Supply, to answer His Majesty's pre<g ref="char:EOLhyphen"/>sent Occasions.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. <hi>R.</hi>
+                  </speaker>
+                  <p>The Question is, whether a Supply or not. I do not intend to Arraign the Militia, but seeing a Soldier is a Trade, and must (as all other Trades are) be learned, I'le shew you where the Militia has failed, <hi>viz.</hi> At <hi>Chatham,</hi> and in <hi>June</hi> last, when the late Duke of <hi>Monmouth</hi> Landed, and had but 83 Men, and 300 <hi>l.</hi> in Money, who in spight of the Militia, nay, in spight of such other Force as the King could spare hence, brought it so far as he did.</p>
+                  <pb n="6" facs="tcp:204654:6"/>
+                  <p> If the King of <hi>France</hi> had Landed then, what would have become of us? I say, the Militia is not insignificant, but an additional Force is necessary, and so a Supply that is answerable to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>T. C.</hi>
+                  </speaker>
+                  <p>If it shall appear to you, that the King's Revenue he hath already, be sufficient to supply all his Occasions, what then need we give him more.</p>
+                  <p>'Tis moved we should proceed by Paragraph.</p>
+                  <p>To come first to the Militia, who (let me tell you) did considerable Service in the late Rebellion, and if a great Noble-man of this Kingdom had been supplied and assisted, it had soon been quelled.</p>
+                  <p>A Confidence 'twixt the King and his People is absolutely needful, let it come whence it will, our Happiness consists in it.</p>
+                  <p>His Majesty, on his first entrance on the Crown, told us, He had been mis-represented, and that he would preserve the Government in Church and State now Established by Law, and to maintain us in all our just Rights and Priviledges.</p>
+                  <p>Over-joyed at this, we run hastily in to him, we gave four Millions (reckoning what we added to him for Life was worth) at once.</p>
+                  <p>The present Revenue is 1900000 <hi>l.</hi> or two Milli<g ref="char:EOLhyphen"/>ons yearly; the Charge of the Government (admit<g ref="char:EOLhyphen"/>ting this Army kept up) is but 1300000 <hi>l.</hi> yearly: And pray let us not forget that there was a Bill of Exclusion debated in this House; I was here, and shewed my self against it; the Arguments for it were, that we should, in case of a Popish Successor, have a Popish Army.</p>
+                  <pb n="7" facs="tcp:204654:6"/>
+                  <p> You see the Act of the Test already broken, but pray remember what the late Lord Chancellor told you, when the late King (of Blessed Memory) past that Act, (the words were to this Effect.) <hi>By this Act you are provided against Popery, that no Pa<g ref="char:EOLhyphen"/>pist can possibly creep into any Employment.</hi> I am afflicted greatly at this Breach of our Liberties, and seeing so great difference betwixt this Speech, and those theretofore made, cannot but believe this was by some others Advice.</p>
+                  <p>This struck at here, is our All, and I wonder there have been any Men so desperate, as to take any Employment not qualified for it, and would have therefore the Question, that a standing Army is destructive to the Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>J. E.</hi>
+                  </speaker>
+                  <p>The number of the standing Forces is about 14 or 15000 Men, and they were about half so many before, and I conceive we are not safe without these Forces to aid and help the Mi<g ref="char:EOLhyphen"/>litia. I am not for laying the Militia aside, but I say, there is a necessity for a standing Force.</p>
+                  <p>Half the Charge of those Forces is about 300000 <hi>l.</hi> Yearly, the whole being 600000 <hi>l.</hi> Yearly, I con<g ref="char:EOLhyphen"/>ceive is all we need to give for it, of that there remains 200000 <hi>l.</hi> unreceived of the 400000 <hi>l.</hi> gi<g ref="char:EOLhyphen"/>ven last, so the 200000 <hi>l.</hi> may go towatds it, and the rest may be supplied by a Tax on Commo<g ref="char:EOLhyphen"/>dities; as for balancing of Trade, may better be charged than not. I am for a Supply.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>H. C.</hi>
+                  </speaker>
+                  <p>I stand up for, and would not have the Militia reflected on, it was very useful in the
+<pb n="8" facs="tcp:204654:7"/> late Rebellion of <hi>Monmouth,</hi> it kept him from <hi>Bri<g ref="char:EOLhyphen"/>stol</hi> and <hi>Exeter;</hi> and is as good as any Army we can raise against any at home.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>I am for vindicating the Militia. The just cause for a Supply, and would give it, and to Reward the Officers not qualified, or take them off some other way.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>A.</hi>
+                  </speaker>
+                  <p>I dread a standing Army, but am for a Supply.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W.</hi>
+                  </speaker>
+                  <p>Kings in old time used to send, not on<g ref="char:EOLhyphen"/>ly an account of their Revenues, but of the Charge they were going to be at, to the Parliament, when they demanded Aids. <hi>Henry</hi> the Fifth had but 56000 <hi>l.</hi> and Queen <hi>Elizabeth</hi> had 160000 and odd pounds Yearly. I am for for a Bill for making the Militia useful, and would know if we give Money thus, it be not for setting up a standing Army. I am for good Guards.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>W. T.</hi>
+                  </speaker>
+                  <p>The Kingdom is guarded by Law; we are now in perfect Peace; the King is both fear<g ref="char:EOLhyphen"/>ed and loved, an Army little needed; Men justly afraid: That which made the last Rebellion as it was, the Man that headed it, was a Favourite of the Faction, and though he had got such a number, he was beaten by 1800 Men only. I am against an Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>S.</hi>
+                  </speaker>
+                  <p>This last Rebellion has contributed to our future Peace, and those engaged in it have sung their Penitential Psalm, and their Punish<g ref="char:EOLhyphen"/>ment rejoyced at by all good Persons. I do not commend the Militia, yet it is not to be rejected,
+<pb n="9" facs="tcp:204654:7"/> but to be new modelled; and for my part, I had ra<g ref="char:EOLhyphen"/>ther pay double to these, (meaning for keeping up the Militia) from whom I fear nothing, than half so much to those, of whom I must ever be afraid; and say what you will, 'tis a Standing-Army.</p>
+                  <p>The last Force preserved the Peace, and was suffi<g ref="char:EOLhyphen"/>cient to do it in the late King's Time, and is now; all the Profit and Security of this Nation, is in our Ships; and had there been the least Ship in the Chan<g ref="char:EOLhyphen"/>nel, it would have disappointed him.</p>
+                  <p>Supporting an Army, is maintaining so many idle Persons to Lord it over the rest of the Subjects.</p>
+                  <p>The King declared, no Soldiers should Quarter in Private Houses; but that they did: That they should pay for all Things they took; but they paid nothing for almost all they took.</p>
+                  <p>And for Officers employed not taking the Tests, is dispensing with all the Laws at once; and if these Men be good and kind, we know not whether it pro<g ref="char:EOLhyphen"/>ceeds from their Generosity, or Principles: For we must remember, 'tis Treason for any Man to be re<g ref="char:EOLhyphen"/>conciled to the Church of <hi>Rome;</hi> for the Pope, by Law, is declared Enemy to this Kingdom.</p>
+                  <p>A Supply given, as moved for, is a kind of an establishing an Army by Act of Parliament; and when they have got the Power into their Hands, we are then to derive it from their Courtesie; and there<g ref="char:EOLhyphen"/>fore I would have the Question be,</p>
+                  <p>That the Safety of the Kingdom doth not consist with a Standing Force; And this it may be will dis<g ref="char:EOLhyphen"/>appoint these Persons, that make it their Business this way, to make themselves useful.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:204654:8"/>
+                  <speaker>Sir <hi>T. C.</hi>
+                  </speaker>
+                  <p>then moved an Address.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>Tho. M.</hi>
+                  </speaker>
+                  <p>I am first for a Supply; that hinders not an Address: His Majesty, in his Speech, only says, <hi>That the Militia's not sufficient.</hi>
+                  </p>
+                  <p>The late Long Parliament always owned some Force necessary: We are not to name the Number, the King is best Judge of that; a great Soldier, and a good Prince.</p>
+                  <p>For I hear the Number is 14 or 15000; and I am for a Supply, and never saw, but Money was always one part of the Bus'ness of every Parliament.</p>
+                  <p>There was a bitter Spirit in the three last Parlia<g ref="char:EOLhyphen"/>ments, not yet well allay'd; and so I conclude, a considerable Force needful, besides the Militia. I call those raised Guards, and would have a Supply given to support His Majesty's Extraordinary Oc<g ref="char:EOLhyphen"/>casions.</p>
+                  <p>The Navy wants 6 or 800000 <hi>l.</hi> and I would give any Reason for it; so a Supply may, without a Nega<g ref="char:EOLhyphen"/>tive, be given.</p>
+               </sp>
+               <sp>
+                  <speaker>Serj. <hi>M.</hi>
+                  </speaker>
+                  <p>There is already a Law, That no Man shall, on any Occasion whatsoever, rise against the King: Lords, and Deputy-Lieutenants, have Power to Disarm the Disaffected: If you give thus a Supply, it is for an Army; and then, may not this Army be made of those that will not take the Test: Which Act was not designed a Punishment for the Papists, but a Protection for our selves; and giving this Money, is for an Army: I am against it.</p>
+                  <pb n="11" facs="tcp:204654:8"/>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. T.</hi>
+                  </speaker>
+                  <p>I must concur with the King, That the Militia is not sufficient: I am for mending the Mi<g ref="char:EOLhyphen"/>litia, and to make it such as the King and Kingdom may confide in it: To trust to Mercenary Force alone, is to give up all our Liberties at once.</p>
+                  <p>If you provide a constant Supply to support them, by setting up an Army, Sir <hi>Thomas Meers</hi> has turned it into a Supply for the Navy.</p>
+                  <p>There is no Country in the World, has a Law to set up an Army; we have already made an ample Supply for the Government. 'Tis for Kings to come to the House, from Time to Time, on Extraordinary Occasions; and if this Army be provided for by Law, they will never more come to this House.</p>
+                  <p>I am for giving for the Extraordinary Charge past. Armies are useful, when Occasion is for them; but if you Establish them, you can Disband them no more.</p>
+                  <p>I am for a Supply, but not on this Score of the Mi<g ref="char:EOLhyphen"/>litia: There was not a Company formed 'till 1588; and as soon as Queen <hi>Elizabeth</hi> had done with her Army, she Disbanded it. Armies have been fatal of<g ref="char:EOLhyphen"/>ten to Princes. The Army, in the late King's Time, often turned out their Leaders. I am for going to the House, for leave, for a Bill to mend the Militia.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>W. C.</hi>
+                  </speaker>
+                  <p>The Beef-Eaters, at this rate, may be called an Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>T. H.</hi>
+                  </speaker>
+                  <p>The Colonel may say what he will of the Beef-Eaters, as he Nick-names them; but they are establish'd by Act of Parliament.</p>
+                  <pb n="12" facs="tcp:204654:9"/>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>S.</hi>
+                  </speaker>
+                  <p>I can make out, that the King's Revenue is sufficient, to maintain the Force on foot.</p>
+               </sp>
+               <div type="question">
+                  <head>
+                     <hi>The Question:</hi> That a Supply be given to His Majesty.</head>
+                  <sp>
+                     <speaker>Sir <hi>Tho. C.</hi>
+                     </speaker>
+                     <p>moved, That the Words, (toward the Support of the Additional Forces) may be added.</p>
+                     <p>The Committee divided. Yea's 156, No's 225. It was carried in the Negative; and then these Votes past:</p>
+                     <p>That a Supply be given to His Majesty; and that the House be moved, to bring in a Bill, to make the Militia useful.</p>
+                     <p>And then Adjourned 'till Nine a Clock to Morrow Morning.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Veneris</hi> 13. <hi>die Novembris,</hi> 1685.</head>
+               <p>A Motion being made by the Earl of <hi>Middleton,</hi> That the House should proceed to the further Consi<g ref="char:EOLhyphen"/>deration of His Majesty's Speech.</p>
+               <p>The House thereupon resolved itself into a Com<g ref="char:EOLhyphen"/>mittee of the whole House; and the previous Que<g ref="char:EOLhyphen"/>stion should be then put, for the House to go on with the Supply, or proceed to the next Paragraph. The House divided.</p>
+               <p>For proceeding to the Supply 182.</p>
+               <p>For proceeding to the next Paragraph.</p>
+               <p>Then the House Adjourned 'till to Morrow Morn<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="day">
+               <pb n="13" facs="tcp:204654:9"/>
+               <head>
+                  <hi>Sabbati</hi> 14. <hi>die Novembris.</hi> 1685.</head>
+               <p>An Address was moved in the Committee by Sir <hi>Edw. Jennings.</hi> Others moved the Inconveniency of it, if not granted, and so let it alone. Others to have the Catholicks, who had been so useful and well known to His Majesty, named and compensated. Some seemed to doubt His Majesty's Compliance. Others that it was not to be doubted, when Addressed by such a House.</p>
+               <p>At last it came to this Conclusion, That Instructions be given to a Committe, to draw an Humble Address to His Majesty.</p>
+               <p>Then the House Adjourned till <hi>Monday</hi> Morning.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Lunae</hi> 16. <hi>die Novembris.</hi> 1685.</head>
+               <p>Mr. Sollicitor Reports, That the Committe appoin<g ref="char:EOLhyphen"/>ted had drawn up an Address to His Majesty; which was read, and agreed to, and is as follows, <hi>viz.</hi>
+               </p>
+               <q>
+                  <pb n="14" facs="tcp:204654:10"/>
+                  <p>Most Gracious Sovereign,</p>
+                  <p>WE your Majesty's most Loyal and Faith<g ref="char:EOLhyphen"/>ful Subjects, the Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, do in the first place (as in Du<g ref="char:EOLhyphen"/>ty bound) return your Majesty our most hum<g ref="char:EOLhyphen"/>ble and hearty Thanks for your great Care and Conduct in suppressing the late Rebellion, which threatned the Overthrow of this Government, both in Church and State, to the Extirpation of our Religion as by Law establish'd, which is most dear unto us, and which your Majesty hath been pleased to give us repeated Assurances you will always defend and maintain, which with all grateful Hearts we shall ever acknowledge.</p>
+                  <p>We further crave leave to acquaint your Ma<g ref="char:EOLhyphen"/>jesty, that we have with all Duty and Readi<g ref="char:EOLhyphen"/>ness taken into our Consideration your Majesty's Gracious Speech to us: And as to that part of it, relating to the Officers in the Armies not qua<g ref="char:EOLhyphen"/>lified for their Employments, according to an Act of Parliament made in the 25th. Year of the Reign of your Royal Brother, Intituled, <hi>An Act for preventing Dangers which may happen from Po<g ref="char:EOLhyphen"/>pish Recusants.</hi>
+                  </p>
+                  <pb n="15" facs="tcp:204654:10"/>
+                  <p> We do out of our bounden Duty, humbly Represent unto your Majesty,</p>
+                  <p>That these Officers cannot by Law be capable of their Employments, and that the Incapaci<g ref="char:EOLhyphen"/>ties they bring upon themselves that way, can no way be taken off but by an Act of Parliament.</p>
+                  <p>Therefore out of that great Reverence and Duty we owe unto your Majesty, who have been graciously pleas'd to take notice of their Services to your Majesty, we are preparing a Bill to pass both Houses, for your Royal Assent, to Indem<g ref="char:EOLhyphen"/>nifie them from the Penalties they have now in<g ref="char:EOLhyphen"/>curred, and because the continuing of them in their Employments may be taken to be a Dispen<g ref="char:EOLhyphen"/>sing with that Law without an Act of Parlia<g ref="char:EOLhyphen"/>ment, the Consequence of which is of the great<g ref="char:EOLhyphen"/>est Concern to the Rights of all your Majesty's Subjects, and to all the Laws made for the Se<g ref="char:EOLhyphen"/>curity of their Religion:</p>
+                  <p>We therefore, the Knights, Citizens, and Burgesses of your Majesty's House of Commons, do most humbly beseech your Majesty, that you would be most graciously pleased to give such Directions therein, that no Apprehensions or Jea<g ref="char:EOLhyphen"/>lousies may remain in the Hearts of your Ma<g ref="char:EOLhyphen"/>jesty's most Loyal Subjects.</p>
+               </q>
+               <pb n="16" facs="tcp:204654:11"/>
+               <p> A Motion being made for going to the Lords for their Concurrence,</p>
+               <p>Some debated, that it would carry with it the greater weight, and be more likely to have good effect; and if the Concurrence of the Lords were asked, the Judges in the Lords House would have an Opportunity of speak<g ref="char:EOLhyphen"/>ing their Opinion to it.</p>
+               <p>Others oppos'd it, for the Lords having already given their Thanks to the King for his Speech, as being con<g ref="char:EOLhyphen"/>tented therewith, and that it would be more for the Ho<g ref="char:EOLhyphen"/>nour of the House of Commons to Address alone.</p>
+               <p>Those that were against the thing it self when it past first, were about going to the Lords for their Concurrence.</p>
+               <p>The House divided. For asking Concurrence 208. Against it 212.</p>
+               <p>It past in the Negative. Then the Members of the House that were of His Majesty's Privy Council, were ordered to know when His Majesty would be pleas'd to be Attended therewith.</p>
+               <p>
+                  <hi>Mr. Sollicitor in the Chair.</hi>
+               </p>
+               <p>The House being Resolved into a Committee of the whole House, to consider of a Supply for His Majesty.</p>
+               <p>The Lord <hi>Campden</hi> moved 200000 <hi>l.</hi> to be given to the King for a Supply, which with 200000 <hi>l.</hi> confessed of what was given for Suppressing the late Rebellion, makes 400000 <hi>l.</hi> and was seconded.</p>
+               <sp>
+                  <speaker>Sir <hi>J. E.</hi>
+                  </speaker>
+                  <p>said, that 1200000 <hi>l.</hi> was needful, and that such a Sum had been given before in the same Session, when there was an Address of this kind made to the late King.</p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="tcp:204654:11"/>
+                  <speaker>Sir T. C.</speaker>
+                  <p>We have this Session already given Customs and Excises for His Majesty's Life.
+<list>
+                        <item>Additional Duty on Wines 8 Years
+<list>
+                              <item>Yearly 150000 <hi>l.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Tax on Sugar and Tobacco 8 Years
+<list>
+                              <item>Yearly 200000 <hi>l.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Tax on Linnen and <hi>East-India</hi> Com<g ref="char:EOLhyphen"/>modities 5 Years
+<list>
+                              <item>Yearly 120000 <hi>l.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>In all six Milions.</p>
+                  <p>Let us give little now, to have Opportunity to give more another time; for if we give too much now, we shall have nothing left to give; and if we proceed thus, what we have will be taken from us.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir E. J.</speaker>
+                  <p>To give 1200000 <hi>l.</hi> now, because such a Sum has been given, is no Argument; once 2400000 <hi>l.</hi> was given here, and therefore should it be so now? 200000 <hi>l.</hi> with what is already confess'd to be in Cash, makes 400000 <hi>l.</hi> and that will maintain the Charge one Year and better; and giving all at once, is doubting the Affection of the People.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. P.</speaker>
+                  <p>You unanimously voted a Supply last Night, and naming so little now, is not so ingenuous a way of proceeding. We are told, six Millions have been this Sessions given; I would have you, Gentlemen, take notice, the giving His Majesty what the late King had, is but setling a Revenue that before was not suf<g ref="char:EOLhyphen"/>ficient for the support of the Government; what was given besides, was part for the late King's Servants, part for the Fleet and Stores, and part for suppressing the late Rebellion.</p>
+                  <pb n="18" facs="tcp:204654:12"/>
+                  <p> To give so little now, is not to enable the King to defend and preserve us, which he has promised to do. I am for 1200000 <hi>l.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ld. R.</speaker>
+                  <p>The Question is for 200000 <hi>l.</hi> or for 1200000<hi>l.</hi>
+                  </p>
+                  <p>What has been given in this matter already, ought not to be weighed at all; and what is called six Mil<g ref="char:EOLhyphen"/>lions, had all uses (when given) tack'd to it.</p>
+                  <p>The Revenue his Brother had, had Uses enough, as—</p>
+                  <p>The Wine and Vinegar Act, rated at yearly 150000 <hi>l.</hi>
+                  </p>
+                  <p>For the Fleet, Stores, Ordnance, and Servants.</p>
+                  <p>The Sugar and Tobacco Act, rated at yearly 200000 <hi>l.</hi>
+                  </p>
+                  <p>For the said Stores, Ordinary, and Fleet—</p>
+                  <p>And the Additional Duty on <hi>French</hi> Linnen and <hi>East-India</hi> Commodities, rated at yearly 120000 <hi>l.</hi>
+                  </p>
+                  <p>For suppressing the late Rebellion—</p>
+                  <p>So there are Uses for all that, and what is now given, must be taken for supporting the Forces—</p>
+                  <p>And therefore I am for 1200000 <hi>l.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. C.</speaker>
+                  <p>Two hundred thousand pound is much too little: Soldiers move not without Pay. <hi>No Penny, no Pater Noster.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. E.</speaker>
+                  <p>Moved for 700000 <hi>l.</hi> and mention'd to have it rais'd upon the new Buildings, which might produce 400000 <hi>l.</hi> and a Poll Bill for the other 300000 <hi>l.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. W.</speaker>
+                  <p>If I knew the King's Revenue were short, I would give as far as any Man; but now we are go<g ref="char:EOLhyphen"/>ing for this particular Use, and if this 200000 <hi>l.</hi> will not do, how can we be sure that 1200000 <hi>l.</hi> will?—</p>
+                  <p>If we give too little now, hereafter, if we see Oc<g ref="char:EOLhyphen"/>casion, we may give more; but if we now give too much, I do not see how we shall ever have it again, though I have heard of such a thing in Queen <hi>Elizabeth</hi>'s time.</p>
+                  <pb n="19" facs="tcp:204654:12"/>
+                  <p> The King (reckoning what he had of his own into it) has 600000 <hi>l.</hi> yearly more than the late King had, and when there is need, I am for more, but now only 400000 <hi>l.</hi> and to raise that easie you will be put to it: How will you do it?</p>
+                  <p>If you lay it upon Trade, that will make it Revenue, and when once in the Crown for some time, it will ne<g ref="char:EOLhyphen"/>ver get out again. I am for only 400000 <hi>l.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ld. C.</speaker>
+                  <p>If the King wants 200000 <hi>l.</hi> I would give him 200000 <hi>l.</hi> but I am for giving no more than he really wants.—</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. W.</speaker>
+                  <p>We give, because we are ask'd; I am for the least Sum, because for an Army, and I would be rid of them as soon as I could; and am more now against it than I lately was, being satisfied that the Country is weary of the Oppression of the Soldiers, weary of Free Quarters, Plunder, and some Felons, for which they have no Complaint, no Redress: And since I heard Mr. <hi>Blathwait</hi> tell us, how strict Rules were prescribed them by the King, I find by their behaviour, the King cannot govern them himself, and then what will be<g ref="char:EOLhyphen"/>come of us?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. H.</speaker>
+                  <p>The Rebellion is suppress'd, and the Army is urged to be small, but it is so thick of Officers, that by filling up the Troops, which is easily at any time done, increases their Number to a third part more. I am for providing for them but one whole Year only, and only for 400000 <hi>l.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. C.</speaker>
+                  <p>I agree to the 400000 <hi>l.</hi> We owe besides that a Duty to our Country, and are bound by the Duty to leave our Posterity as free in our Liberties and Properties as we can▪ and there being Officers now in the Army, that have not taken the Test, greatly flats my Zeal for
+<pb n="20" facs="tcp:204654:13"/> it, and makes me esteem the Militia, which if we well modelled, and plac'd in mens hands of Interest in their Country, we are certain, and so is the King secure; for there is no such Security of any Man's Loyalty, as a good Estate.</p>
+                  <p>Reasons I have heard given against Armies, that they Debauch'd the Manners of all the People, their Wives, Daughters, and Servants.</p>
+                  <p>Men do not go to Church where they Quarter, for fear Mischief to be done at their Houses in their absence.</p>
+                  <p>Plowmen and Servants quit all Country Employments to turn Soldiers; and then a Court Martial in time of Peace, is most terrible.</p>
+                  <p>In Peace, Justices of it, and the Civil Magistrate ought to Punish, if applied to.</p>
+                  <p>And what Occasion then can be for them?</p>
+                  <p>Is it to suppress a Rebellion in time of an Invasion? all then will go towards that.</p>
+                  <p>Or is it to Assist his Allies? the House will give Aid when wanted on that score.</p>
+                  <p>The Guards I am not against, those shewed them<g ref="char:EOLhyphen"/>selves useful in <hi>Venner</hi>'s Business, and the late Rebellion; I am not against them, I only speak of those that have been new rais'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. A.</speaker>
+                  <p>I'll tell you the use of these Forces; they ex<g ref="char:EOLhyphen"/>pected the rising of a great Party, and were not these Forces standing, to prevent a Rebellion, you would have one in few days.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. B.</speaker>
+                  <p>If any Disorders have been committed, it is not yet too late to have them redress'd; and Martial-Law (if by that clear'd) does not hinder proceeding at Common-Law for the same thing.</p>
+                  <pb n="21" facs="tcp:204654:13"/>
+                  <p> Four hundred thousand pound is not enough; no State near us in Proportion, but what exceeds this small number of Men.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. C.</speaker>
+                  <p>Seven Millions of Men in <hi>England;</hi> the strength of Men in <hi>England</hi> consists in our Native, in which (for want of Men) <hi>France</hi> can never equal us; their Trade will not breed them; a Ship of 50 Tuns will carry 100000 <hi>l.</hi> of their Goods, Linnen and Silks. Ours are bulky Goods, and Employs Twenty times more, unless you (by burdening of Trade) let them into the <hi>West-Indies.</hi> Armies are not manageable, Com<g ref="char:EOLhyphen"/>manders have been very often known to Rebel: The measure of our Supply is our Security.</p>
+                  <p>His Majesty's Declaration says, if on Complaint, the Officers give no Redress, then Complain to the King; and so Justice is balked by this hardship put upon the Complainant.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. T.</speaker>
+                  <p>moved to have it temporary from year to year.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir C. M.</speaker>
+                  <p>Let it be to enable His Majesty to preserve us in Peace at home, and to make His Majesty Formida<g ref="char:EOLhyphen"/>ble abroad for 1200000 <hi>l.</hi> as a Supply answerable to the Loyalty of this House.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir H. C.</speaker>
+                  <p>This House was so forward to give last time, that the King's Ministers gave their stop to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. W.</speaker>
+                  <p>The Use is to direct the <hi>Quantum.</hi> I see a present necessity for continuing these Forces, till the Mi<g ref="char:EOLhyphen"/>litia is made useful; I am for trying two years, and so for 400000 <hi>l.</hi> and so leave the Door open for coming hither to give another time.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>The Principle of the Rebel Party is never to Repent. I am for 1200000 <hi>l.</hi> and if so much be gi<g ref="char:EOLhyphen"/>ven, I would have you, Gentlemen, to remember the Fanaticks are the cause of it.</p>
+               </sp>
+               <sp>
+                  <pb n="22" facs="tcp:204654:14"/>
+                  <speaker>Mr. P.</speaker>
+                  <p>An Island may be attaqued, notwithstanding any Fleet. Ours is much mended, a Thousand Men daily at Work, ever since we gave Money for it, and not one Man in it an Officer, that has not taken the Test.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. O.</speaker>
+                  <p>New Troops are not so good as old, and more subject to commit Disorders, but will be less so, when they are longer under Discipline. The King of <hi>France</hi> never sends Troops to his Army, till they have been two or three years on foot in a Garrison.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. C.</speaker>
+                  <p>The Trained Bands at <hi>Newberry-</hi>Fight did brave things.</p>
+               </sp>
+               <p>Then the Question was put, That a Sum, not ex<g ref="char:EOLhyphen"/>ceeding 400000 <hi>l.</hi> should be given to the King.</p>
+               <p>The Previous Question being put. <hi>Yeas</hi> 167. <hi>Noes</hi> 179. It passed in the Negative.</p>
+               <p>Then the Question was put for 700000 <hi>l.</hi> and no more. <hi>Yeas—</hi>212. <hi>Noes—</hi>170. So it pass'd in the Affirmative.</p>
+               <p>The Question for 1200000 <hi>l.</hi> being thus waved, it was then Ordered, That the Committee of the whole House should to Morrow proceed on His Majesty's Sup<g ref="char:EOLhyphen"/>ply, and on Wednesday to consider of Heads for a Mi<g ref="char:EOLhyphen"/>litia-Bill.</p>
+               <p>And then Adjourned till Nine of the Clock to morrow Morning.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Martis</hi> 17. <hi>die Novembris.</hi> 1685.</head>
+               <p>The House Resolved it self into a Committee of the whole House, to consider the way of raising His Ma<g ref="char:EOLhyphen"/>jesty's Supply.</p>
+               <pb n="23" facs="tcp:204654:14"/>
+               <p>
+                  <hi>Mr. <hi>North</hi> in the Chair.</hi>
+               </p>
+               <sp>
+                  <speaker>Sir <hi>J. E.</hi>
+                  </speaker>
+                  <p>Moved, that an Additional Duty upon Wines might yield 400000 <hi>l.</hi> yearly; and other Goods he na<g ref="char:EOLhyphen"/>med, about 600000 <hi>l.</hi> yearly, which with the continu<g ref="char:EOLhyphen"/>ance for some years of the late Act of Imposition of <hi>French</hi> Linnens, and <hi>East-India</hi> Silks, <hi>&amp;c.</hi> might make up the Sum; and told the House, he propos'd this way, to avoid a Land-Tax.</p>
+                  <p>The Goods he named to be rated, were Soap, Pot<g ref="char:EOLhyphen"/>ashes, to pay 7 <hi>d.</hi> ½ to treble; unwrought Silks, Deals, Planks; and other Boards to double. Raisins and Pruans 2 <hi>s. per Cent.</hi> to double. Iron now pays 7 <hi>s. per Cent.</hi> to double. Copperas 18 <hi>s. per Cent.</hi> to double. Oyls to 8 or 10 <hi>per</hi> Tun, pay now 30 <hi>s.</hi> Drugs will bear ⅔ more than rated. Drugs and Spice from <hi>Holland,</hi> Salt, and all Prohibited Goods, 20 <hi>l. per Cent.</hi>
+                  </p>
+                  <p>And this I hope may do what is now intended to be rais'd at this time, supposing 4 <hi>l. per</hi> Tun on <hi>French Wines.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>D. N.</hi>
+                  </speaker>
+                  <p>Moved much to the same effect, and en<g ref="char:EOLhyphen"/>larged on it, and said, the Book of Rates had been well consider'd, and these Goods capable of bearing the Du<g ref="char:EOLhyphen"/>ties propos'd; but if the King took the 4 <hi>l. per</hi> Tun on <hi>French</hi> Wines at twenty thousand pounds yearly, he would be a loser by it.</p>
+                  <p>Other Gentlemen insisted on having <hi>French</hi> Linnen higher charg'd.</p>
+                  <p>The Pepper that is expended here, paying one penny a pound, might pay one penny more, and so yield 70 or 80000 <hi>l.</hi> yearly; and that Bullion exported to the <hi>Indies,</hi> might bear 5 <hi>l. per Cent.</hi> and encourage the send<g ref="char:EOLhyphen"/>ing of other Goods (in some measure) instead of it thither.</p>
+               </sp>
+               <sp>
+                  <pb n="24" facs="tcp:204654:15"/>
+                  <speaker>Sir R. T.</speaker>
+                  <p>Moved Subsidies or Land-Tax; but the House inclining to what was first propos'd, and being consented to by the King's Ministers, seemed contented with it; so was voted, That an Act for laying an Imposition on <hi>French</hi> Linnens, <hi>East-India</hi> Goods, Brandy, <hi>&amp;c.</hi> should be continued for five years from <hi>Midsummer</hi> 1690. and be given to His Majesty as 400000 <hi>l.</hi> And that</p>
+                  <p>An Imposition of 4 <hi>l. per</hi> Tun be laid upon all <hi>French</hi> Wines, on which to be rais'd 300000 <hi>l.</hi> which makes up the 700000 <hi>l.</hi>
+                  </p>
+                  <p>The time how long this 4 <hi>l. per</hi> Tun shall be laid, is not yet determined, an Account being first to be brought from the Custom-House Books, of what number of Tuns are yearly Imported; 'twas said 100000 Tuns: Others affirm'd, there were near double so many.</p>
+               </sp>
+               <p>The House seemed to incline to 8 or 10 years, and that the Duties already on it should still continue for the same time; which 4 <hi>l. per</hi> Tun, with the Duty it already pays, is near 20 <hi>l. per</hi> Tun.</p>
+               <p>And then the House Adjourn'd till Nine of the Clock to morrow Morning.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Mercurii</hi> 18. <hi>die Novembris.</hi> 1685.</head>
+               <p>Mr. Speaker Acquaints the House, That His Majesty having been yesterday Attended in the <hi>Banqueting-House</hi> at <hi>Whitehall</hi> with the Address of Thanks from this House for his great Care and Conduct, and suppressing the late Rebellion; and likewise concerning the Officers of the Army not qualified for their Employments, was Gra<g ref="char:EOLhyphen"/>ciously pleas'd to Return an Answer, to the effect fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <q>
+                  <pb n="25" facs="tcp:204654:15"/>
+                  <p>My Lords and Gentlemen,</p>
+                  <p>I <hi>Did not expect such an Address from the House of Commons. For having so lately recommended to your Consideration the great Advantages a good Under<g ref="char:EOLhyphen"/>standing between us had produc'd us in a very short time, and given you warning of Fears and Jealousies amongst our selves. I had reason to hope, that the Reputation God had blessed me with in the World, would have seated and confirm'd a good Confidence in you for me, and of all that I say to you.</hi>
+                  </p>
+                  <p>
+                     <hi>But however you proceed on your Part, I will be steady in all my Promises I have made to you, and be just to my Word in this, and all my other Speeches.</hi>
+                  </p>
+               </q>
+               <p>The said Answer was read with all due Reverence and Respect, and there being a profound Silence in the House for some time after it.</p>
+               <sp>
+                  <speaker>Mr. W.</speaker>
+                  <p>moved, that a Day might be appointed to consider on His Majesty's Answer to the late Address of this House, and named <hi>Friday</hi> next.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. C.</speaker>
+                  <p>Stood up, and seconded that Motion, and said, I hope we are all <hi>English</hi> Men, and are not to be frighted out of our Duty by a few high Words.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. P.</speaker>
+                  <p>took present Exceptions against the Words, which, as is usual, were writ down by the Clerk, and Mr. <hi>C.</hi> call'd upon to explain—</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. C.</speaker>
+                  <p>said, he intended no ill by it; and that he did not believe these the Words: And that if he had said
+<pb n="26" facs="tcp:204654:16"/> any thing that had given that House Offence, he was sorry, and would ask them Pardon for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir C. M.</speaker>
+                  <p>It is not enough to say these were not the Words, but you are to say what the Words were.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. C.</speaker>
+                  <p>I do not make set Speeches: I cannot repeat them; and if they did drop from me, I ask the King and you Pardon.</p>
+                  <p>So these being took for granted to have been the Words, Mr. <hi>C.</hi> as the Custom is in such Cases, with<g ref="char:EOLhyphen"/>drew into the Speaker's Chamber.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. T.</speaker>
+                  <p>Not our own Honour, but the King is con<g ref="char:EOLhyphen"/>cern'd in this; and moved, that he should be brought to the Bar, and there to receive a Reprimand from Mr. Speaker for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir H. C.</speaker>
+                  <p>a Gentleman of great Loyalty, never before of the House, desired he might have what Favour he could.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. A.</speaker>
+                  <p>A great Reflection upon this House, if this be let pass. Several spoke of his Loyalty, but none to Ex<g ref="char:EOLhyphen"/>cuse him for this.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. P.</speaker>
+                  <p>Send him to the Tower.</p>
+               </sp>
+               <sp>
+                  <speaker>Ld. M.</speaker>
+                  <p>The meaning of this seems like an Incendiary. The Tower!</p>
+                  <p>This needs no aggravation; a Reprimand for an Of<g ref="char:EOLhyphen"/>fence to this House, might do; but this does not end there, and 'tis a question whether it be in the Power of the House to pass it by, the Offence is given to the King as well as you: I am for calling him to the Bar in the first place. But 'twas then Order'd, that Mr. <hi>C.</hi> for his undecent Speech, should be sent to the Tower.</p>
+                  <p>And then Mr. <hi>S.</hi> said, Now this is over, I cannot but consent to those that moved for a day, to consider of His Majesty's Answer, nor think my self as honest as I should be, if I now hold my tongue.</p>
+                  <pb n="27" facs="tcp:204654:16"/>
+                  <p> And if we do take this Matter into Consideration, I doubt not but we shall behave our selves with that decen<g ref="char:EOLhyphen"/>cy to His Majesty, that we may hope for a more satisfa<g ref="char:EOLhyphen"/>ctory Answer, than as yet this seems to be to me.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. E.</speaker>
+                  <p>I hope that acquiescence that was this mor<g ref="char:EOLhyphen"/>ning in this House, on reading His Majesty's Answer, has ended this matter. I do think the King will do all what he promised, and am for resting there</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>mov'd to Adjourn, and said, he did not know what to say to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. C.</speaker>
+                  <p>For that very Reason I move for a day to consider of it; and I do not think we shew that Respect we ought to do to the King if we do not.</p>
+               </sp>
+               <p>And then the House Adjourn'd to Nine of the Clock to Morrow Morning.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Jovis</hi> 19. <hi>die Novembris.</hi> 1685.</head>
+               <p>The Committee appointed to search the Custom-House Books, how many Tuns of <hi>French</hi> Wines were yearly Imported, Report to the House, That 4 <hi>l. per</hi> Tun laid upon <hi>French</hi> Wines, would, all Deductions allowed, bring in yearly 350000 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>Mr. Sollicitor took the Chair.</hi>
+               </p>
+               <p>And 'twas thereupon Resolved, That the 4 <hi>l. per</hi> Tun, to be laid on <hi>French</hi> Wines, for the raising of 300000 <hi>l.</hi> be continued from the First of <hi>December,</hi> 1685. yearly, for 9 years and a half.</p>
+               <p>To which the House agreed, and Mr. Sollicitor was Order'd to bring in a Bill on the Debates of the House,
+<pb n="28" facs="tcp:204654:17"/> with a Clause of Loan for the said Imposition of 4 <hi>l. per</hi> Tun for the said 9 years and a half, from the First of <hi>December</hi> 1685. And then Adjourn'd.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Veneris</hi> 20. <hi>die Novembris.</hi> 1685.</head>
+               <p>
+                  <hi>A Message from the King by the Gentleman Usher of the Black-Rod.</hi>
+               </p>
+               <p>
+                  <hi>Mr. Speaker, It is His Majesty's Pleasure, this Ho<g ref="char:EOLhyphen"/>nourable House do Attend him immediately in the House of Peers. Where being come, the Lord Chancellor, by His Majesty's Directions, said as followeth.</hi>
+               </p>
+               <q>
+                  <p>My Lords, and you the Knights, Citizens, and Burgesses of the House of Commons, I am Commanded by His Ma<g ref="char:EOLhyphen"/>jesty to let you know, that it is His Majesty's Pleasure, for many weighty Reasons, that this Parliament be Prorogu'd till the <hi>10th.</hi> day of <hi>February</hi> next. And accordingly this Parliament is Prorogu'd till the <hi>10th.</hi> day of <hi>February</hi> next.</p>
+                  <p>Dissolved.</p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204654:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
